@@ -12,14 +12,14 @@ Public Class NUnitTest
     End Sub
     <TearDown()> _
     Public Sub CleanUp()
-
+        test = Nothing
     End Sub
     <Test()> _
     Public Sub Addition()
         Assert.AreEqual(5, test.Add(2, 3))
     End Sub
 
-    '<Ignore("Ignore a Test")> _
+    <Ignore("Ignore a Test")> _
     <Test()> _
     Public Sub Substraction()
         Assert.AreEqual(0, test.Substract(2, 2))
