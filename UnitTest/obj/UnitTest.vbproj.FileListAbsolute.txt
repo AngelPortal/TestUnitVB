@@ -1,0 +1,13 @@
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\UnitTest.Resources.resources
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\UnitTest.vbproj.GenerateResource.Cache
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\UnitTest.dll
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\UnitTest.pdb
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\UnitTest.xml
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\TestUnitVB.dll
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\TestUnitVB.pdb
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\bin\Debug\TestUnitVB.xml
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\UnitTest.dll
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\UnitTest.xml
+C:\Documents and Settings\02272453856\Meus documentos\Visual Studio 2005\Projects\TestUnitVB\UnitTest\obj\Debug\UnitTest.pdb
