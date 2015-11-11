@@ -1,0 +1,4 @@
+Texto Explicativo
+Versão 1.2.0
+SERPRO-142678
+Utilização do Nuget
